@@ -1,7 +1,7 @@
 class Person
   
   def int(name)
-    @
+    @name =
   end
   
   
