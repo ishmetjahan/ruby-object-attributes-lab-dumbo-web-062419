@@ -10,3 +10,7 @@ class Person
   end
  
 end
+
+name= Dog.new 
+
+job
