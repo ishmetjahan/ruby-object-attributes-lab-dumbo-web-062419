@@ -1,7 +1,7 @@
 class Person
   
   def int(name)
-    instance_variable_set(:@name)
+    name = @name
   end
   
   
