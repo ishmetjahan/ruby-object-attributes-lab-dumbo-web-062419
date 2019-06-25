@@ -4,5 +4,9 @@ class Person
     @name = name 
   end
   
+  
+  def profession (job)
+    @job = job
+  end
  
 end
