@@ -9,6 +9,7 @@ class Person
     @job1 = job
   end
  
+ 
 end
 
 name= Dog.new 
