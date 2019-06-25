@@ -9,6 +9,8 @@ class Person
     @job1 = job
   end
  
+ def name
+   @name
  
 end
 
