@@ -1,6 +1,6 @@
 class Person
   
-  def int
+  def int(name)
     @name = name
   end
   
