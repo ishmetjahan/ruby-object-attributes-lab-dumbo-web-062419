@@ -13,4 +13,3 @@ end
 
 name= Dog.new 
 
-job
