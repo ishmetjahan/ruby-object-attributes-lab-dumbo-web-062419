@@ -1,12 +1,12 @@
 class Person
   
   def int(name)
-    @name = name
+    @name1 = name
   end
   
   
   def profession (job)
-    @job = job
+    @job1 = job
   end
  
 end
